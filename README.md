@@ -36,3 +36,4 @@ curl --location --request POST 'http://localhost:9191/hoodfiller/' \
   "hood_capacity": 41, 
   "present_weights": [2,5,10,50,100]
 }'
+
